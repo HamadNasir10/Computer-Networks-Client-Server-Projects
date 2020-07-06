@@ -5,5 +5,5 @@ Each project contains two files client.c and server.c.
 
 Run each file on seperate terminal/cmd.
 
-After running client.c respective file/item will b send to server.c terminal.
+After running client.c respective file/item will be sent to server.c terminal.
 
